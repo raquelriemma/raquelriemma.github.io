@@ -8,6 +8,8 @@ style.css
 }
 
 body {
+    font-family: 'Roboto';
+    font-size: 22px;
     background-color: #70c6c7;
 }
 
