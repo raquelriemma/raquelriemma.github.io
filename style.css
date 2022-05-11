@@ -8,7 +8,7 @@ style.css
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #f0d8cc;
 }
 
 .resume-contents {
@@ -22,13 +22,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #756763;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+    background-color: #80786b;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -38,27 +38,27 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #1B2631;
+    border-bottom: 2px solid #756763;
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
+    border: 8px solid #756763;
 }
 
 .name {
-    color: #D6DBDF;
+    color: #d1a7a0;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: center;
-    font-weight: bold;
+    font-weight: bold; 
     padding: 1rem 0;
 }
 
 .profession {
-    color: #FDB44B;
+    color: #e5c6c1;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -69,7 +69,7 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #FDB44B;
+    color: #c7e4ff;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -88,7 +88,7 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #d6dbdfaf;
+    color: #c7aa82;
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -117,7 +117,7 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
-    color: #F9E79F;
+    color: #cb997e;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
@@ -136,7 +136,7 @@ body {
 }
 
 .right-title {
-    color: #70C6C7;
+    color: #dabb9f;
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -154,7 +154,7 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
-    color: #F1F8FD;
+    color: #f4ece2;
 }
 
 .experience-contents,
@@ -173,7 +173,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #dabb9f;
     padding-bottom: .4rem;
 }
 
@@ -192,7 +192,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #dabb9f;
     padding-bottom: .4rem;
 }
 
@@ -202,7 +202,7 @@ body {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 1.5rem;
-    border-left: 3px solid #a5a3a3;
+    border-left: 3px solid #f2eade;
     padding-left: 5px;
 }
 
