@@ -7,7 +7,7 @@ style.css
 }
 
 body {
-    background-color: #f0d8cc;
+    background-color: #abc3c9;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -22,13 +22,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #756763;
+    background-color: #382119;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #80786b;
+    background-color: #CCBE9F;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -38,17 +38,17 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #756763;
+    border-bottom: 2px solid #382119;
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #756763;
+    border: 8px solid #382119;
 }
 
 .name {
-    color: #deb4a8;
+    color: #CCBE9F;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -58,7 +58,7 @@ body {
 }
 
 .profession {
-    color: #f2d0c7;
+    color: #CCBE9F;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -69,7 +69,7 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #523435;
+    color: #ABC3C9;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -88,7 +88,7 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #cfcfcf;
+    color: #E0DCD3;
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -97,7 +97,7 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #6B364c;
+    color: #ABC3C9;
 }
 
 .skills ul {
@@ -105,7 +105,7 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #cfcfcf;
+    color: #E0DCD3;
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
@@ -117,14 +117,14 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
-    color: #cb997e;
+    color: #E0DCD3;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
 
 .referance-profession {
     font-size: 16px;
-    color: #d6dbdfaf;
+    color: #E0DCD3;
     letter-spacing: 1px;
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
@@ -136,7 +136,7 @@ body {
 }
 
 .right-title {
-    color: #c7b79d;
+    color: #382119;
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -154,7 +154,7 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
-    color: #e3dadb;
+    color: #2E2F48;
 }
 
 .experience-contents,
@@ -163,7 +163,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
-    color: #e3dadb;
+    color: #2E2F48;
 }
 
 .exp-company-name,
@@ -173,7 +173,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #c7b79d;
+    color: #46251B;
     padding-bottom: .4rem;
 }
 
@@ -192,7 +192,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #c7b79d;
+    color: #46251B;
     padding-bottom: .4rem;
 }
 
